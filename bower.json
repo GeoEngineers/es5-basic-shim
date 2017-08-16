@@ -1,0 +1,24 @@
+{
+    "name": "es5-basic-shim",
+    "version": "1.0.6",
+    "homepage": "http://github.com/radubrehar/es5-basic-shim/",
+    "licenses": [
+        {
+            "type": "MIT"
+        }
+    ],
+    "autor": {
+        "name": "Radu Brehar" ,
+        "email": "radu@jslog.com",
+        "url" : "jslog.com"
+    },
+    "main": "src/shim.js",
+    "repository": {
+        "type": "git",
+        "url": "http://github.com/radubrehar/es5-basic-shim.git"
+    },
+    "ignore": [
+        ".npmignore",
+        "package.json"
+    ]
+}
